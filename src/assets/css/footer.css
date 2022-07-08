@@ -1,0 +1,14 @@
+.footer-content{
+    margin-top: 100px;
+    background-color: rgba(0, 33, 105, 0.548);
+    padding: 1rem 1.5rem 3rem;
+}
+
+.has-text-centered {
+    text-align: center;
+    color:white
+}
+.has-text-centered a {
+    text-decoration: none;
+    color: white;
+}

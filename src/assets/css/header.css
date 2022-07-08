@@ -1,0 +1,22 @@
+.navbar {
+    background-color: rgba(0, 33, 105, 0.548);
+    margin-bottom: 100px;
+}
+
+.navbar-item {
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+}
+
+.navbar a.navbar-item:hover {
+    background-color: transparent;
+}
+
+.navbar-item img {
+    max-height: 10rem;
+    max-width: 10rem;
+}
